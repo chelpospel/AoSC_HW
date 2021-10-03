@@ -1,0 +1,27 @@
+Filled container:
+Container contains 11 elements.
+0: {It is object oriented language: inheritance = multiple, lenght of name = 4, year of creation = 1991, procent of popular = 0.0759114}
+1: {It is functional language: typing = strong, implementation of lazy calculations = 0, lenght of name = 2, year of creation = 1968, procent of popular = 0.128739}
+2: {It is object oriented language: inheritance = multiple, lenght of name = 2, year of creation = 1984, procent of popular = 0.395653}
+3: {It is procedural language: ATD = 1, lenght of name = 4, year of creation = 1981, procent of popular = 0.385973}
+4: {It is procedural language: ATD = 0, lenght of name = 1, year of creation = 1991, procent of popular = 0.839558}
+5: {It is object oriented language: inheritance = unary, lenght of name = 5, year of creation = 1982, procent of popular = 0.087217}
+6: {It is procedural language: ATD = 1, lenght of name = 6, year of creation = 1968, procent of popular = 0.0835695}
+7: {It is object oriented language: inheritance = unary, lenght of name = 2, year of creation = 1988, procent of popular = 0.714618}
+8: {It is procedural language: ATD = 1, lenght of name = 4, year of creation = 1989, procent of popular = 0.456635}
+9: {It is object oriented language: inheritance = multiple, lenght of name = 6, year of creation = 1991, procent of popular = 0.308946}
+10: {It is object oriented language: inheritance = unary, lenght of name = 3, year of creation = 1965, procent of popular = 0.861937}
+
+Sorted container:
+Container contains 11 elements.
+0: {It is procedural language: ATD = 1, lenght of name = 6, year of creation = 1968, procent of popular = 0.0835695}
+1: {It is object oriented language: inheritance = multiple, lenght of name = 6, year of creation = 1991, procent of popular = 0.308946}
+2: {It is object oriented language: inheritance = unary, lenght of name = 5, year of creation = 1982, procent of popular = 0.087217}
+3: {It is procedural language: ATD = 1, lenght of name = 4, year of creation = 1981, procent of popular = 0.385973}
+4: {It is procedural language: ATD = 1, lenght of name = 4, year of creation = 1989, procent of popular = 0.456635}
+5: {It is object oriented language: inheritance = multiple, lenght of name = 4, year of creation = 1991, procent of popular = 0.0759114}
+6: {It is object oriented language: inheritance = unary, lenght of name = 3, year of creation = 1965, procent of popular = 0.861937}
+7: {It is functional language: typing = strong, implementation of lazy calculations = 0, lenght of name = 2, year of creation = 1968, procent of popular = 0.128739}
+8: {It is object oriented language: inheritance = multiple, lenght of name = 2, year of creation = 1984, procent of popular = 0.395653}
+9: {It is object oriented language: inheritance = unary, lenght of name = 2, year of creation = 1988, procent of popular = 0.714618}
+10: {It is procedural language: ATD = 0, lenght of name = 1, year of creation = 1991, procent of popular = 0.839558}

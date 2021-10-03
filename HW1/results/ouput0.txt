@@ -1,0 +1,11 @@
+Filled container:
+Container contains 3 elements.
+0: {It is procedural language: ATD = 1, lenght of name = 8, year of creation = 1993, procent of popular = 0.7812}
+1: {It is functional language: typing = weak, implementation of lazy calculations = 0, lenght of name = 5, year of creation = 1993, procent of popular = 0.2188}
+2: {It is object oriented language: inheritance = interface, lenght of name = 7, year of creation = 1974, procent of popular = 0.331}
+
+Sorted container:
+Container contains 3 elements.
+0: {It is procedural language: ATD = 1, lenght of name = 8, year of creation = 1993, procent of popular = 0.7812}
+1: {It is object oriented language: inheritance = interface, lenght of name = 7, year of creation = 1974, procent of popular = 0.331}
+2: {It is functional language: typing = weak, implementation of lazy calculations = 0, lenght of name = 5, year of creation = 1993, procent of popular = 0.2188}
